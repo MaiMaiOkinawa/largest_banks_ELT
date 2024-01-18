@@ -1,6 +1,6 @@
 # Project: Acquiring and Processing Information on World's Largest Banks
 
-## Used Libraries and Framework
+## Library and Framework
 
 - **requests**: Used for accessing information from the URL.
 - **bs4 (BeautifulSoup)**: Used for web scraping.
